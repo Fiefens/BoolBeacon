@@ -1,0 +1,60 @@
+T,There are at least 19 letters in the English Alphabet.
+T,The square root of 144 is 12.
+T,Water boils at 100 degrees celsius.
+T,The capital of France is Paris.
+T,The sun is a star.
+T,Red is a color.
+T,Pi is an irrational number.
+T,A triangle's internal angles sum to 180 degrees.
+T,Shakespeare wrote "Macbeth."
+T,Light travels faster than sound.
+F,There are 100 seconds in a minute.
+F,The moon is made of cheese.
+F,2 + 2 = 5.
+F,Water is solid at 40 degrees fahrenheit.
+F,H2O is the chemical formula for hydrogen peroxide.
+F,The Earth is flat.
+F,The sum of the angles in a square is 270 degrees.
+F,Cats are a species of plant.
+F,All prime numbers are even.
+F,The English alphabet contains 40 letters.
+N,Green faster than tall.
+N,If then else perhaps always.
+N,Disassemble harmony by numerical rain.
+N,::Interpretation not available::
+N,<is this text?>
+N,Run!
+N,Unbelievable!
+N,Select option and proceed.
+N,...as the stars, in silence
+N,asdf123!!??
+T,The human body typically has 206 bones.
+T,A leap year occurs roughly every four years.
+T,Venus is closer to the Sun than Earth.
+T,The chemical symbol for gold is Au.
+T,A right angle measures 90 degrees.
+T,A dozen eggs equals twelve eggs.
+T,The boiling point of water decreases at higher altitudes.
+T,An isosceles triangle has two sides of equal length.
+T,There are 60 minutes in an hour.
+T,Carbon dioxide contains one carbon atom and two oxygen atoms.
+F,Elephants are the fastest land animals.
+F,A triangle can have two right angles.
+F,The capital of Canada is Toronto.
+F,A kilometer is shorter than a meter.
+F,The Great Wall of China is visible from the moon with the naked eye.
+F,Plants perform photosynthesis at night.
+F,A hexagon always has eight sides.
+F,Saturn is the closest planet to the Sun.
+F,All mammals lay eggs.
+F,The number 100 comes directly after 98.
+N,Drift quietly beyond the edge of syntax.
+N,When the clouds calculate, how do you subtract?
+N,Beneath until sideways before.
+N,Press memory until it folds.
+N,<can velocity dream in reverse?>
+N,Because if not, then why still green?
+N,Paint the silence with transparent noise.
+N,Is sideways louder than parallel thought?
+N,If orange rhymes with logic, spin.
+N,Whichever proximity, therefore unless.
