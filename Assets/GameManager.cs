@@ -11,6 +11,8 @@ public class GameManager : MonoBehaviour
     public static GameObject activeBlock;
     private float currentY = 0.5f;
 
+    public static string Name;
+
     public static int Score = 0;
     public TMP_Text ScoreText;
 
